@@ -16,6 +16,10 @@ Via Yarn:
 yarn add -s react-display-control
 ```
 
+## Demo
+
+[Demo page](https://trunghongoc.github.io/react-display-control-demo/)
+
 ## Usuage
 
 Render `<Item />` id = `id_1` and `id_3` at the first time render. Others `<Item />` will be not rendered.
